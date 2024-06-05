@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.260 (2024-06-05)
+
+## What's Changed
+* feat: Add extra_hosts configuration to docker-compose.dev.yml by @StanGirard in https://github.com/QuivrHQ/quivr/pull/2635
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.259...v0.0.260
+
 ## 0.0.259 (2024-06-04)
 
 ## What's Changed
